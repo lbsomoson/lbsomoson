@@ -39,7 +39,7 @@
   <h3>⚙️ GitHub Analytics</h3>
   <a href="https://github.com/lbsomoson">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lbsomoson&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true&rank_icon=percentile"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lbsomoson&layout=compact&langs_count=8&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+    <img height="152em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lbsomoson&layout=compact&langs_count=8&theme=great-gatsby&include_all_commits=true&count_private=true"/>
   </a>
 </div>
 
