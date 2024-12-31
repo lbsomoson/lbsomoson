@@ -1,10 +1,6 @@
 <div align="center">
   <h2>Hi there! I'm Lea 👋</h2>
-  <img
-    src='assets/cat-typing.gif'
-    alt='Cat Typing'
-    width="50%"
-  />
+  <img src='assets/cat-typing.gif' alt='Cat Typing'/>
 </div>
 
 <div align="center">
