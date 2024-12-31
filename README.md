@@ -32,14 +32,14 @@
     <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap">&nbsp;
     <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma">&nbsp;
     <img src="https://img.shields.io/badge/-Insomnia-6C44FF?style=flat&logo=insomnia&logoColor=white" alt="Insomnia">&nbsp;
-    <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">&nbsp;
+    <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
 </div>
 
 <div align="center">
   <h3>⚙️ GitHub Analytics</h3>
   <a href="https://github.com/lbsomoson">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lbsomoson&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true&rank_icon=percentile"/>
-    <img height="152em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lbsomoson&layout=compact&langs_count=8&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-psi-lilac-70.vercel.app/api?username=lbsomoson&show_icons=true&theme=gruvbox_light&include_all_commits=true&count_private=true&hide=issues&show=prs_merged,prs_merged_percentage"/>
+    <img height="180em" src="https://github-readme-stats-psi-lilac-70.vercel.app/api/top-langs/?username=lbsomoson&layout=compact&langs_count=8&theme=gruvbox_light&include_all_commits=true&count_private=true"/>
   </a>
 </div>
 
