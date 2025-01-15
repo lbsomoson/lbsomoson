@@ -52,4 +52,8 @@
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=lbsomoson1@up.edu.ph">
     <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
+  <a href="https://lmbsomoson-personal-website.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/PORTFOLIO-black?style=for-the-badge&logoColor=white" alt="Portfolio">
+  </a>
+
 </div>
